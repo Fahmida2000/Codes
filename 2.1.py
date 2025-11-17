@@ -1,7 +1,7 @@
 number=int(input("Enter a number"))
 
 if number % 2 == 0:
-    print ("Even")
+    print ("Evens")
 else:
     print("Odd")
 
